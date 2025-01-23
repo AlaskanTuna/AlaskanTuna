@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://files.catbox.moe/5mh8cr.gif" height="275px" />
+    <img src="https://files.catbox.moe/5mh8cr.gif" height="400px" />
 </div>
 
 ---
