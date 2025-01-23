@@ -104,7 +104,7 @@
 ## 🤝 Connect Me Via
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/hee-zi-jie-aa6652108/" target="blank">
+  <a href="https://www.linkedin.com/in/hee-zi-jie-aa6652108/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hee-zi-jie-aa6652108/" height="23" width="33" />
   </a> &nbsp;&nbsp;
 
@@ -112,7 +112,7 @@
     <img align="center" alt="AlaskanTuna | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:heezijie2004@gmail.com" >
+  <a href="mailto:heezijie2004@gmail.com" target="_blank">
     <img align="center" alt="Hee Zi Jie | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
