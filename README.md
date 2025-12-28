@@ -14,10 +14,10 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🏫 I'm currently doing Computer Science Degree in APU.
-- 🔭 I’m currently learning `JavaScript` and `REST API`.
-- 🤔 Interested in Machine Learning.
-- ⚙️ Actively using: `.py`, `.java`.
+- 🏫 Bachelors of Science in Computer Science at Asia Pacific University.
+- 🔭 I’m currently learning `TypeScript` and `Solidity`.
+- 🤔 Interested in Machine Learning and IoT.
+- 🔥 Motivation: Just build things.
 - 🌸 I like watching animes (unlated, /s).
 
 </td>
