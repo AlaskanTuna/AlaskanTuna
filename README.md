@@ -18,7 +18,7 @@
 - 🔭 I’m currently learning `TypeScript` and `Solidity`.
 - 🤔 Interested in Machine Learning and IoT.
 - 🔥 Motivation: Just build things.
-- 🌸 I like watching animes (unlated, /s).
+- 🌸 I like watching animes (unrelated, /s).
 
 </td>
 <td width="50%" align="center">
