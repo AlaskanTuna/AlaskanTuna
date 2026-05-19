@@ -53,15 +53,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlaskanTuna&show_icons=true&theme=transparent&hide_border=true&title_color=F77A00&icon_color=F77A00&text_color=8B949E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaskanTuna&layout=compact&theme=transparent&hide_border=true&title_color=F77A00&text_color=8B949E" alt="Top languages" />
-</p>
-
----
-
 ## Activities
 
 <p align="center">
