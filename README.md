@@ -59,10 +59,6 @@
   <img src="https://streak-stats.demolab.com?user=AlaskanTuna&theme=transparent&hide_border=true&ring=F77A00&fire=F77A00&currStreakLabel=F77A00" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlaskanTuna&theme=minimal&hide_border=true&color=F77A00&line=F77A00&point=F77A00&area=true&area_color=F77A00" alt="GitHub activity graph" />
-</p>
-
 ---
 
 ## Connect With Me
